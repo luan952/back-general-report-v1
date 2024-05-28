@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luan Felipe\\OneDrive\\Documentos\\Projetos\\back-general-report-v1\\GeneralReport\\GeneralReport.API\\GeneralReport.API.csproj": {}
+    "C:\\Users\\Luan Felipe\\OneDrive\\Documentos\\Projetos\\back-general-report-v1\\GeneralReport\\GeneralReport.Application\\GeneralReport.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luan Felipe\\OneDrive\\Documentos\\Projetos\\back-general-report-v1\\GeneralReport\\GeneralReport.API\\GeneralReport.API.csproj": {
+    "C:\\Users\\Luan Felipe\\OneDrive\\Documentos\\Projetos\\back-general-report-v1\\GeneralReport\\GeneralReport.Application\\GeneralReport.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luan Felipe\\OneDrive\\Documentos\\Projetos\\back-general-report-v1\\GeneralReport\\GeneralReport.API\\GeneralReport.API.csproj",
-        "projectName": "GeneralReport.API",
-        "projectPath": "C:\\Users\\Luan Felipe\\OneDrive\\Documentos\\Projetos\\back-general-report-v1\\GeneralReport\\GeneralReport.API\\GeneralReport.API.csproj",
+        "projectUniqueName": "C:\\Users\\Luan Felipe\\OneDrive\\Documentos\\Projetos\\back-general-report-v1\\GeneralReport\\GeneralReport.Application\\GeneralReport.Application.csproj",
+        "projectName": "GeneralReport.Application",
+        "projectPath": "C:\\Users\\Luan Felipe\\OneDrive\\Documentos\\Projetos\\back-general-report-v1\\GeneralReport\\GeneralReport.Application\\GeneralReport.Application.csproj",
         "packagesPath": "C:\\Users\\Luan Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luan Felipe\\OneDrive\\Documentos\\Projetos\\back-general-report-v1\\GeneralReport\\GeneralReport.API\\obj\\",
+        "outputPath": "C:\\Users\\Luan Felipe\\OneDrive\\Documentos\\Projetos\\back-general-report-v1\\GeneralReport\\GeneralReport.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luan Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,19 +44,15 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
-            "Microsoft.AspNetCore.OpenApi": {
+            "FluentValidation": {
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[11.9.1, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.19, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -71,9 +67,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
