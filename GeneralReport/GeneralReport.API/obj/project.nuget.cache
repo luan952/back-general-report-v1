@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/ej7PKneLV3OAU/mHw+ng6EzupKHKeWlQMnjL5tEGs4+MUNFCD0lDc6Mcc+QUFiJB4tDKQ3ylb1fC0Pb2F6aA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luan Felipe\\OneDrive\\Documentos\\Projetos\\back-general-report-v1\\GeneralReport\\GeneralReport.API\\GeneralReport.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luan Felipe\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\Luan Felipe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Luan Felipe\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Luan Felipe\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Luan Felipe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Luan Felipe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Luan Felipe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
